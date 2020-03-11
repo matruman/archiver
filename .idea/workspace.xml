@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="926e3d76-1660-4304-93e1-bdf254d5e8f3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YZxgLP28nJFn5ldQ57fZ6ryzxr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/arhiver" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/arhiver" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arhiver.Main" />
+      <module name="arhiver" />
+      <option name="PROGRAM_PARAMETERS" value="$USER_HOME$/Desktop/untitledfolder/img.png" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arhiver.pack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="926e3d76-1660-4304-93e1-bdf254d5e8f3" name="Default Changelist" comment="" />
+      <created>1583164027662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583164027662</updated>
+      <workItem from="1583164029004" duration="1818000" />
+      <workItem from="1583170340780" duration="3090000" />
+      <workItem from="1583252539590" duration="320000" />
+      <workItem from="1583257230568" duration="276000" />
+      <workItem from="1583409515457" duration="27000" />
+      <workItem from="1583418286843" duration="2033000" />
+      <workItem from="1583420860327" duration="14000" />
+      <workItem from="1583502435705" duration="1236000" />
+      <workItem from="1583504810940" duration="9000" />
+      <workItem from="1583594864977" duration="1678000" />
+      <workItem from="1583604398420" duration="765000" />
+      <workItem from="1583673673862" duration="64000" />
+      <workItem from="1583674185643" duration="706000" />
+      <workItem from="1583675909293" duration="905000" />
+      <workItem from="1583680324626" duration="5215000" />
+      <workItem from="1583689912313" duration="1127000" />
+      <workItem from="1583764730304" duration="14001000" />
+      <workItem from="1583779175755" duration="77000" />
+      <workItem from="1583844606240" duration="7972000" />
+      <workItem from="1583924848402" duration="15148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="866" y="279" key="#Project_Structure" timestamp="1583164037850">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="866" y="279" key="#Project_Structure/0.23.2560.1337@0.23.2560.1337" timestamp="1583164037850" />
+    <state x="855" y="305" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583930245260">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="855" y="305" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1583930245260" />
+    <state x="1111" y="453" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583929698583">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1111" y="453" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1337@0.23.2560.1337" timestamp="1583929698583" />
+    <state x="1329" y="366" key="#com.intellij.ide.util.MemberChooser" timestamp="1583773521158">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1329" y="366" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1337@0.23.2560.1337" timestamp="1583773521158" />
+    <state width="1885" height="351" key="GridCell.Tab.0.bottom" timestamp="1583940157541">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1885" height="351" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1583940157541" />
+    <state width="1885" height="351" key="GridCell.Tab.0.center" timestamp="1583940157540">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1885" height="351" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1583940157540" />
+    <state width="1885" height="351" key="GridCell.Tab.0.left" timestamp="1583940157539">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1885" height="351" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1583940157539" />
+    <state width="1885" height="351" key="GridCell.Tab.0.right" timestamp="1583940157540">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1885" height="351" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1583940157540" />
+    <state width="1885" height="430" key="GridCell.Tab.1.bottom" timestamp="1583938685272">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1885" height="430" key="GridCell.Tab.1.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1583938685272" />
+    <state width="1885" height="430" key="GridCell.Tab.1.center" timestamp="1583938685271">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1885" height="430" key="GridCell.Tab.1.center/0.23.2560.1337@0.23.2560.1337" timestamp="1583938685271" />
+    <state width="1885" height="430" key="GridCell.Tab.1.left" timestamp="1583938685270">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1885" height="430" key="GridCell.Tab.1.left/0.23.2560.1337@0.23.2560.1337" timestamp="1583938685270" />
+    <state width="1885" height="430" key="GridCell.Tab.1.right" timestamp="1583938685271">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1885" height="430" key="GridCell.Tab.1.right/0.23.2560.1337@0.23.2560.1337" timestamp="1583938685271" />
+    <state x="1023" y="505" key="com.intellij.ide.util.TipDialog" timestamp="1583924847974">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1023" y="505" key="com.intellij.ide.util.TipDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1583924847974" />
+    <state x="959" y="399" key="new project wizard" timestamp="1583419144834">
+      <screen x="0" y="23" width="2880" height="1517" />
+    </state>
+    <state x="959" y="399" key="new project wizard/0.23.2880.1517@0.23.2880.1517" timestamp="1583419144834" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/arhiver/pack/ParallelCompressor.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
