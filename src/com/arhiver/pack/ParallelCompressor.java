@@ -18,8 +18,6 @@ public class ParallelCompressor implements Runnable {
     private int lengthOut;
     private int id;
     private int prev;
-    int empty = 0;
-    int empty1 = 0;
 
     public ParallelCompressor(SynchronizedIO synchronizedIO, int id, int prev) {
 
@@ -34,6 +32,7 @@ public class ParallelCompressor implements Runnable {
 
     @Override
     public void run() {
+
 
         while ((lengthIn = synchronizedIO.read(buff, id, prev)) > 0) {
 

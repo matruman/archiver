@@ -10,9 +10,11 @@ public class Unpack {
 
     private FileInputStream inputStream;
     private ParallelUnpacker[] threads;
+    private String dir;
 
-    public Unpack(FileInputStream inputStream) {
+    public Unpack(FileInputStream inputStream, String dir) {
 
+        this.dir = dir;
         this.inputStream = inputStream;
         threads = new ParallelUnpacker[Main.MAX_THREAD];
     }
@@ -24,7 +26,7 @@ public class Unpack {
         while ((name = getName(inputStream)) != null) {
 
             int countBlocks = readInt(inputStream);
-            SynchronizedIO synchronizedIO = new SynchronizedIO(inputStream, name, countBlocks);
+            SynchronizedIO synchronizedIO = new SynchronizedIO(inputStream, name, countBlocks, dir);
             for (int i = 0; i < Main.MAX_THREAD; i++) {
                 threads[i] =  new ParallelUnpacker(synchronizedIO, i);
                 threads[i].start();

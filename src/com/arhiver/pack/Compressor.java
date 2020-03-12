@@ -2,7 +2,6 @@ package com.arhiver.pack;
 
 import com.arhiver.Main;
 
-import javax.imageio.IIOException;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -10,15 +9,15 @@ import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-import java.util.Arrays;
+import java.util.ArrayList;
 
 public class Compressor {
 
     private FileOutputStream outputStream;
-    private File[] files;
+    private ArrayList<File> files;
 
 
-    public Compressor(FileOutputStream outputStream, File[] files) {
+    public Compressor(FileOutputStream outputStream, ArrayList<File> files) {
 
         this.files = files;
         this.outputStream = outputStream;
@@ -36,7 +35,7 @@ public class Compressor {
             try {
                 inputStream = new FileInputStream(file);
             } catch (IOException e) {
-                System.out.printf("Cannot open %s\n", file);
+                System.out.printf("Cannot open the file \"%s\"\n", file);
                 System.exit(0);
             }
 
@@ -44,10 +43,7 @@ public class Compressor {
             if (file.length() % Main.BUFF_SIZE > 0)
                 blocksCount++;
 
-            ByteBuffer buffer;
-
-            buffer = ByteBuffer.allocate(Main.BUFF_SIZE);
-
+            ByteBuffer buffer = ByteBuffer.allocate(Main.BUFF_SIZE);
             buffer.putShort((short) file.getName().length());
             buffer.put(file.getName().getBytes());
             buffer.putInt(blocksCount);

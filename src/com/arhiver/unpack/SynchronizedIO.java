@@ -16,11 +16,10 @@ public class SynchronizedIO {
     private volatile int lastWriteUser;
     private int blocksCount;
 
-    public SynchronizedIO(FileInputStream inputStream, String name, int blocksCount)
+    public SynchronizedIO(FileInputStream inputStream, String name, int blocksCount, String dir)
     {
         this.inputStream = inputStream;
-        mkdirIfExists();
-        this.file = new File(Main.DIR_NAME + "/" + name);
+        this.file = new File(dir + "/" + name);
         lastReadUser = Main.MAX_THREAD - 1;
         lastWriteUser = Main.MAX_THREAD - 1;
         this.blocksCount = blocksCount;
@@ -31,17 +30,6 @@ public class SynchronizedIO {
         catch (Exception e) {
             System.out.println(Main.INVALID_UNPACK);
             System.exit(1);
-        }
-    }
-
-    private synchronized void mkdirIfExists() {
-        File dir = new File(Main.DIR_NAME);
-
-        if (!dir.isDirectory()) {
-            if (!dir.mkdir()) {
-                System.out.println(Main.INVALID_DIR);
-                System.exit(1);
-            }
         }
     }
 
