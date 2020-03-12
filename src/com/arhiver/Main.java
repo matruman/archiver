@@ -1,10 +1,6 @@
 package com.arhiver;
 
 import com.arhiver.file.FileHandler;
-import com.arhiver.pack.Compressor;
-
-import java.io.File;
-import java.io.FileOutputStream;
 
 public class Main {
 
@@ -16,8 +12,6 @@ public class Main {
     public static final int MAX_THREAD = 4;
     public static final String INVALID_UNPACK = "Invalid archive file";
     public static final String INVALID_DIR = "Cannot create output directory";
-
-
 
     public static void main(String[] args) {
 

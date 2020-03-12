@@ -7,33 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="926e3d76-1660-4304-93e1-bdf254d5e8f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/archiver_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arhiver/file/FileHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arhiver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archiver.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/arhiver/META-INF/arhiver.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/arhiver/com/arhiver/Block.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/arhiver/com/arhiver/Compressor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/arhiver/com/arhiver/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/arhiver/com/arhiver/Overlap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/arhiver/com/arhiver/Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/arhiver/com/arhiver/pack/Compressor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/arhiver/com/arhiver/pack/Overlap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/arhiver/com/arhiver/pack/ParallelCompressor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/arhiver/com/arhiver/pack/SynchronizedIO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/arhiver/com/arhiver/unpack/Output.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/arhiver/com/arhiver/unpack/ParallelUnpacker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/arhiver/com/arhiver/unpack/SynchronizedIO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/arhiver/com/arhiver/unpack/Unpack.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/arhiver/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/arhiver/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/arhiver/pack/Compressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/arhiver/pack/Compressor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/arhiver/pack/ParallelCompressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/arhiver/pack/ParallelCompressor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/arhiver/unpack/SynchronizedIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/arhiver/unpack/SynchronizedIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/arhiver/unpack/Unpack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/arhiver/unpack/Unpack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x.compress" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +115,7 @@
       <workItem from="1583946920797" duration="4071000" />
       <workItem from="1584014380929" duration="337000" />
       <workItem from="1584014729389" duration="3831000" />
+      <workItem from="1584018746918" duration="273000" />
     </task>
     <servers />
   </component>
@@ -171,22 +147,22 @@
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="1334" y="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1583950359347" />
-    <state width="1996" height="102" key="GridCell.Tab.0.bottom" timestamp="1584018528218">
+    <state width="1996" height="102" key="GridCell.Tab.0.bottom" timestamp="1584021238698">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1996" height="102" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1584018528218" />
-    <state width="1996" height="102" key="GridCell.Tab.0.center" timestamp="1584018528217">
+    <state width="1996" height="102" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1584021238698" />
+    <state width="1996" height="102" key="GridCell.Tab.0.center" timestamp="1584021238697">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1996" height="102" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1584018528217" />
-    <state width="1996" height="102" key="GridCell.Tab.0.left" timestamp="1584018528216">
+    <state width="1996" height="102" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1584021238697" />
+    <state width="1996" height="102" key="GridCell.Tab.0.left" timestamp="1584021238697">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1996" height="102" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1584018528216" />
-    <state width="1996" height="102" key="GridCell.Tab.0.right" timestamp="1584018528217">
+    <state width="1996" height="102" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1584021238697" />
+    <state width="1996" height="102" key="GridCell.Tab.0.right" timestamp="1584021238698">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1996" height="102" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1584018528217" />
+    <state width="1996" height="102" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1584021238698" />
     <state width="1511" height="386" key="GridCell.Tab.1.bottom" timestamp="1584016427614">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
