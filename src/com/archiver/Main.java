@@ -1,6 +1,6 @@
-package com.arhiver;
+package com.archiver;
 
-import com.arhiver.file.FileHandler;
+import com.archiver.file.FileHandler;
 
 public class Main {
 

@@ -1,6 +1,6 @@
-package com.arhiver.unpack;
+package com.archiver.unpack;
 
-import com.arhiver.Main;
+import com.archiver.Main;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -11,26 +11,17 @@ public class SynchronizedIO {
 
     private FileInputStream inputStream;
     private FileOutputStream outputStream;
-    private File file;
     private volatile int lastReadUser;
     private volatile int lastWriteUser;
     private int blocksCount;
 
-    public SynchronizedIO(FileInputStream inputStream, String name, int blocksCount, String dir)
+    public SynchronizedIO(FileInputStream inputStream, FileOutputStream outputStream, int blocksCount)
     {
         this.inputStream = inputStream;
-        this.file = new File(dir + "/" + name);
         lastReadUser = Main.MAX_THREAD - 1;
         lastWriteUser = Main.MAX_THREAD - 1;
         this.blocksCount = blocksCount;
-        try {
-            this.file.createNewFile();
-            this.outputStream = new FileOutputStream(this.file);
-        }
-        catch (Exception e) {
-            System.out.println(Main.INVALID_UNPACK);
-            System.exit(1);
-        }
+        this.outputStream = outputStream;
     }
 
     public synchronized int read(int id, int previous, byte[] buff) {

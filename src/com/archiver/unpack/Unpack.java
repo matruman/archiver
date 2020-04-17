@@ -1,8 +1,10 @@
-package com.arhiver.unpack;
+package com.archiver.unpack;
 
-import com.arhiver.Main;
+import com.archiver.Main;
 
+import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileOutputStream;
 import java.nio.ByteBuffer;
 
 
@@ -26,7 +28,17 @@ public class Unpack {
         while ((name = getName(inputStream)) != null) {
 
             int countBlocks = readInt(inputStream);
-            SynchronizedIO synchronizedIO = new SynchronizedIO(inputStream, name, countBlocks, dir);
+            File file = new File(dir + "/" + name);
+            FileOutputStream outputStream = null;
+            try {
+                file.createNewFile();
+                outputStream = new FileOutputStream(file);
+            }
+            catch (Exception e) {
+                System.out.println(Main.INVALID_UNPACK);
+                System.exit(1);
+            }
+            SynchronizedIO synchronizedIO = new SynchronizedIO(inputStream, outputStream, countBlocks);
             for (int i = 0; i < Main.MAX_THREAD; i++) {
                 threads[i] =  new ParallelUnpacker(synchronizedIO, i);
                 threads[i].start();
@@ -38,6 +50,16 @@ public class Unpack {
                     e.printStackTrace();
                 }
             }
+            try {
+                outputStream.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+        try {
+            inputStream.close();
+        } catch (Exception e) {
+            e.printStackTrace();
         }
     }
 

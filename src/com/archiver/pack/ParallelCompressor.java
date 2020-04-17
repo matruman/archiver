@@ -1,9 +1,7 @@
-package com.arhiver.pack;
+package com.archiver.pack;
 
-import com.arhiver.Main;
+import com.archiver.Main;
 
-import java.io.File;
-import java.io.FileOutputStream;
 import java.nio.ByteBuffer;
 import java.util.Arrays;
 

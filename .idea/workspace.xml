@@ -7,90 +7,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="926e3d76-1660-4304-93e1-bdf254d5e8f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/archiver.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft.compress" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/author" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_atoi.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_bzero.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_fstrncpy.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_isalnum.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_isalpha.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_isascii.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_isdigit.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_isprint.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_itoa.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_lstadd.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_lstcutelem.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_lstdel.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_lstdelone.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_lstiter.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_lstmap.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_lstnew.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_memalloc.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_memccpy.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_memchr.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_memcmp.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_memcpy.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_memdel.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_memmove.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_memset.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_putchar.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_putchar_fd.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_putendl.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_putendl_fd.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_putnbr.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_putnbr_fd.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_putstr.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_putstr_fd.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_putstrn.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strcat.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strchr.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strclr.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strcmp.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strcpy.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strdel.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strdup.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strequ.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_striter.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_striteri.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strjoin.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strlcat.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strlen.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strmap.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strmapi.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strncat.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strncmp.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strncpy.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strnequ.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strnew.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strnstr.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strrchr.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strsplit.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strstr.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strsub.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_strtrim.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_tolower.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libft/ft_toupper.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unpack/libft.compress" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/archiver_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/archiver_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive.compress" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arh.compress" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/err_block.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/archiver_jar/archiver.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/archiver_jar/archiver.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/archiver/com/arhiver/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/archiver/com/arhiver/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/archiver/com/arhiver/file/FileHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/archiver/com/arhiver/file/FileHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/archiver/com/arhiver/pack/Compressor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/archiver/com/arhiver/pack/Compressor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/archiver/com/arhiver/pack/Overlap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/archiver/com/arhiver/pack/Overlap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/archiver/com/arhiver/pack/ParallelCompressor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/archiver/com/arhiver/pack/ParallelCompressor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/archiver/com/arhiver/pack/SynchronizedIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/archiver/com/arhiver/pack/SynchronizedIO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/archiver/com/arhiver/unpack/Output.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/archiver/com/arhiver/unpack/ParallelUnpacker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/archiver/com/arhiver/unpack/ParallelUnpacker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/archiver/com/arhiver/unpack/SynchronizedIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/archiver/com/arhiver/unpack/SynchronizedIO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/archiver/com/arhiver/unpack/Unpack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/archiver/com/arhiver/unpack/Unpack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/arhiver/unpack/Output.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpack/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpack/img.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archiver.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/archiver_jar/archiver.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/archiver/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/archiver/com/arhiver/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/archiver/com/arhiver/file/FileHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/archiver/com/arhiver/pack/Compressor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/archiver/com/arhiver/pack/Overlap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/archiver/com/arhiver/pack/ParallelCompressor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/archiver/com/arhiver/pack/SynchronizedIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/archiver/com/arhiver/unpack/ParallelUnpacker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/archiver/com/arhiver/unpack/SynchronizedIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/archiver/com/arhiver/unpack/Unpack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/arhiver/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/archiver/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/arhiver/file/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/archiver/file/FileHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/arhiver/pack/Compressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/archiver/pack/Compressor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/arhiver/pack/Overlap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/archiver/pack/Overlap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/arhiver/pack/ParallelCompressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/archiver/pack/ParallelCompressor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/arhiver/pack/SynchronizedIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/archiver/pack/SynchronizedIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/arhiver/unpack/ParallelUnpacker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/archiver/unpack/ParallelUnpacker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/arhiver/unpack/SynchronizedIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/archiver/unpack/SynchronizedIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/arhiver/unpack/Unpack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/archiver/unpack/Unpack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +49,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YZxgLP28nJFn5ldQ57fZ6ryzxr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -118,28 +60,32 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
     <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/unpack" />
       <recent name="$PROJECT_DIR$/src/com/arhiver" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\coding\java\archiver" />
+      <recent name="D:\coding\java\archiver\out1" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="11.0.4" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.arhiver.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.archiver.Main" />
       <module name="archiver" />
       <option name="PROGRAM_PARAMETERS" value="arh.compress $USER_HOME$/Desktop/Compresor.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arhiver.pack.*" />
+          <option name="PATTERN" value="com.archiver.pack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,20 +150,28 @@
       <workItem from="1584103568253" duration="36000" />
       <workItem from="1584104603623" duration="36000" />
       <workItem from="1584119000737" duration="2770000" />
+      <workItem from="1587120523082" duration="2869000" />
+      <workItem from="1587123530663" duration="820000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="866" y="279" key="#Project_Structure" timestamp="1584014500726">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="866" y="279" key="#Project_Structure/0.23.2560.1337@0.23.2560.1337" timestamp="1584014500726" />
-    <state x="594" y="289" width="1224" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584119078452">
-      <screen x="0" y="23" width="2560" height="1337" />
+    <state x="317" y="145" width="787" height="560" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587121761334">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="317" y="145" width="787" height="560" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587121761334" />
     <state x="594" y="289" width="1224" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1584119078452" />
     <state x="1111" y="453" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584121157266">
       <screen x="0" y="23" width="2560" height="1337" />
@@ -227,33 +181,43 @@
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="1329" y="366" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1337@0.23.2560.1337" timestamp="1583773521158" />
-    <state x="962" y="603" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584017181451">
-      <screen x="0" y="23" width="2560" height="1337" />
+    <state x="513" y="293" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587121834511">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="513" y="293" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1587121834511" />
     <state x="962" y="603" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1584017181451" />
-    <state x="1187" y="570" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584119023899">
-      <screen x="0" y="23" width="2560" height="1337" />
+    <state x="633" y="298" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587120616845">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="633" y="298" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1587120616845" />
     <state x="1187" y="570" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1584119023899" />
     <state x="1334" y="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583950359347">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="1334" y="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1583950359347" />
-    <state width="1996" height="102" key="GridCell.Tab.0.bottom" timestamp="1584024551469">
-      <screen x="0" y="23" width="2560" height="1337" />
+    <state x="490" y="144" key="FileChooserDialogImpl" timestamp="1587123784137">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="490" y="144" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587123784137" />
+    <state width="661" height="178" key="GridCell.Tab.0.bottom" timestamp="1587124148732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587124148732" />
     <state width="1996" height="102" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1584024551469" />
-    <state width="1996" height="102" key="GridCell.Tab.0.center" timestamp="1584024551468">
-      <screen x="0" y="23" width="2560" height="1337" />
+    <state width="661" height="178" key="GridCell.Tab.0.center" timestamp="1587124148717">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="661" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587124148717" />
     <state width="1996" height="102" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1584024551468" />
-    <state width="1996" height="102" key="GridCell.Tab.0.left" timestamp="1584024551468">
-      <screen x="0" y="23" width="2560" height="1337" />
+    <state width="661" height="178" key="GridCell.Tab.0.left" timestamp="1587124148717">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="661" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587124148717" />
     <state width="1996" height="102" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1584024551468" />
-    <state width="1996" height="102" key="GridCell.Tab.0.right" timestamp="1584024551469">
-      <screen x="0" y="23" width="2560" height="1337" />
+    <state width="661" height="178" key="GridCell.Tab.0.right" timestamp="1587124148732">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="661" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587124148732" />
     <state width="1996" height="102" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1584024551469" />
     <state width="1511" height="386" key="GridCell.Tab.1.bottom" timestamp="1584016427614">
       <screen x="0" y="23" width="2560" height="1337" />
@@ -271,13 +235,15 @@
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state width="1511" height="386" key="GridCell.Tab.1.right/0.23.2560.1337@0.23.2560.1337" timestamp="1584016427614" />
-    <state x="712" y="394" key="SettingsEditor" timestamp="1584017187771">
-      <screen x="0" y="23" width="2560" height="1337" />
+    <state x="103" y="0" width="1040" height="726" key="SettingsEditor" timestamp="1587123791035">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="103" y="0" width="1040" height="726" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587123791035" />
     <state x="712" y="394" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1584017187771" />
-    <state x="1023" y="505" key="com.intellij.ide.util.TipDialog" timestamp="1584118998595">
-      <screen x="0" y="23" width="2560" height="1337" />
+    <state x="546" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1587123530851">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="546" y="262" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587123530851" />
     <state x="1023" y="505" key="com.intellij.ide.util.TipDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1584118998595" />
     <state x="959" y="399" key="new project wizard" timestamp="1583419144834">
       <screen x="0" y="23" width="2880" height="1517" />

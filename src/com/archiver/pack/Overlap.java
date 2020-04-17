@@ -1,4 +1,4 @@
-package com.arhiver.pack;
+package com.archiver.pack;
 
 public class Overlap {
 

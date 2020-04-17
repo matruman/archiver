@@ -1,6 +1,6 @@
-package com.arhiver.unpack;
+package com.archiver.unpack;
 
-import com.arhiver.Main;
+import com.archiver.Main;
 
 import java.nio.ByteBuffer;
 import java.util.Arrays;

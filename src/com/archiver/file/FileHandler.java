@@ -1,8 +1,8 @@
-package com.arhiver.file;
+package com.archiver.file;
 
-import com.arhiver.Main;
-import com.arhiver.pack.Compressor;
-import com.arhiver.unpack.Unpack;
+import com.archiver.Main;
+import com.archiver.pack.Compressor;
+import com.archiver.unpack.Unpack;
 
 import java.io.File;
 import java.io.FileInputStream;
