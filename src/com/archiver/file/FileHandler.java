@@ -12,8 +12,8 @@ import java.util.ArrayList;
 public class FileHandler {
 
     public static final String USAGE = "Usage:\n" +
-            "\tTo pack files to archive:\n\t\tjava -jar archiver.jar archive_name.compress <files>\n" +
-            "\tTo unpack files from archive:\n\t\tjava -jar archiver.jar <file.compress> -d <directory_name>";
+            "\tTo pack files to archive:\n\t\tjava -jar archiver.jar <archive_name.compress> <files>\n" +
+            "\tTo unpack files from archive:\n\t\tjava -jar archiver.jar <archive_name.compress> -d <directory_name>";
 
     public static void fileHandler(String[] args) {
 
