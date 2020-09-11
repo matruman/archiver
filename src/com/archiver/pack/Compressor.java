@@ -3,12 +3,8 @@ package com.archiver.pack;
 import com.archiver.Main;
 
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.nio.ByteBuffer;
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 
 public class Compressor {
@@ -25,9 +21,7 @@ public class Compressor {
 
     public void run() {
 
-        DateTimeFormatter datef = DateTimeFormatter.ofPattern("yyyy.MM.dd HH:mm:ss.SSS");
-
-        System.out.println(datef.format(LocalDateTime.now()));
+        long t1 = System.currentTimeMillis();
        
         Thread[] threads = new Thread[Main.MAX_THREAD];
         SynchronizedIO synchronizedIO = new SynchronizedIO(files, outputStream);
@@ -51,6 +45,6 @@ public class Compressor {
             e.printStackTrace();
             System.exit(0);
         }
-        System.out.println(datef.format(LocalDateTime.now()));
+        System.out.println(System.currentTimeMillis() - t1);
     }
 }
