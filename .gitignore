@@ -1,1 +1,4 @@
 *.class
+*.compress
+list_files
+files/*

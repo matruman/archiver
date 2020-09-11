@@ -31,9 +31,10 @@ public class ParallelCompressor implements Runnable {
     @Override
     public void run() {
 
+        while ((lengthIn = synchronizedIO.read(buff, buffer, id, prev)) >= 0) {
 
-        while ((lengthIn = synchronizedIO.read(buff, id, prev)) > 0) {
-
+            if (lengthIn == 0)
+                continue ;
             getOverlaps();
             setNewPositions(overlaps);
             output();

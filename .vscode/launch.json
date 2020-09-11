@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": "tp.compress files\\*"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<archiver_5a6c0b51>",
+            "request": "launch",
+            "mainClass": "com.archiver.Main",
+            "projectName": "archiver_5a6c0b51",
+            "args": "tp.compress files\\*"
+        }
+    ]
+}

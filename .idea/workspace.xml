@@ -8,8 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="926e3d76-1660-4304-93e1-bdf254d5e8f3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archiver.jar" beforeDir="false" afterPath="$PROJECT_DIR$/archiver.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/archiver/file/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/archiver/file/FileHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +43,13 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/unpack" />
-      <recent name="$PROJECT_DIR$/src/com/arhiver" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\coding\java\archiver" />
       <recent name="D:\coding\java\archiver\out1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/unpack" />
+      <recent name="$PROJECT_DIR$/src/com/arhiver" />
     </key>
   </component>
   <component name="RunManager">
@@ -130,7 +128,7 @@
       <workItem from="1584119000737" duration="2770000" />
       <workItem from="1587120523082" duration="2869000" />
       <workItem from="1587123530663" duration="1860000" />
-      <workItem from="1587147404802" duration="288000" />
+      <workItem from="1587147404802" duration="1155000" />
     </task>
     <servers />
   </component>

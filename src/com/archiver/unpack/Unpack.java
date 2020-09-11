@@ -6,6 +6,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.nio.ByteBuffer;
+import java.nio.charset.Charset;
 
 
 public class Unpack {
@@ -125,6 +126,6 @@ public class Unpack {
             e.printStackTrace();
             System.exit(0);
         }
-        return new String(str);
+        return new String(str, Charset.forName("UTF-8"));
     }
 }
